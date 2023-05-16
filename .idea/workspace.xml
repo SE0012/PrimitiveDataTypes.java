@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e7ce2f5-b748-4fa8-84ce-4b434a5da991" name="Changes" comment="">
-      <changelist_data name="SE0012" email="" />
+    <list default="true" id="1e7ce2f5-b748-4fa8-84ce-4b434a5da991" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/DataTypes/UserDefinedDataTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684213700968</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1684219120819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684219120819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
