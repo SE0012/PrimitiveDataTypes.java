@@ -1,6 +1,6 @@
 package com.Operators;
 
-import java.sql.SQLOutput;
+
 
 public class TernaryOperator {
     //Ternary Operator used as alternative of if-else
