@@ -1,7 +1,4 @@
 package com.Operators;
-
-
-
 public class TernaryOperator {
     //Ternary Operator used as alternative of if-else
     //Combination of ? and :
