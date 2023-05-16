@@ -1,4 +1,4 @@
-package DataTypes;
+package com.DataTypes;
 
 public class UserDefinedDataTypes {
     public static void main(String[] args) {

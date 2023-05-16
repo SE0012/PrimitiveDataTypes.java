@@ -1,4 +1,4 @@
-package DataTypes;
+package com.DataTypes;
 
 public class PrimitiveDataTypes {
     public static void main(String[] args){
