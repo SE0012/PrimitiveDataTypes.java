@@ -1,0 +1,69 @@
+                                                    DATA TYPES:
+data-types
+**********
+data-type is used to validate the data before going to store in a variable
+data-types are divided into 2 types
+1.	primitive data-type
+2. 	user defined data-type
+primitive data-type
+*******************
+we have 8 primitive data types exist in java
+
+//integer types - byte, short,int, long
+1. byte   : byte  a=  100; // 1-byte
+2. short  : short b = 2000; // 2-bytes
+3. int    : int   c = 120000; // 4- bytes
+4. long   : long  e = 67890678; // 8 -Bytes
+
+// Floating Points
+5. float  : float d= 23.00f; //stores 6 decimal digits - 4bytes
+6. double : double f = 5678902.12d; //stores 16 digits after decimal numbers - 8bytes
+
+// Boolean Types
+7. boolean: boolean h = true; // 1 bit - Yes/No OR True/False or on/off
+
+//characters
+8. char   : char  g = 'A'; // 2 bytes -single letter
+
+   {     
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+        System.out.println(h);
+}
+user-defined data type
+**********************
+//String,class,object,interface,Array        
+//String - it won't have any length
+{
+        String myName = "Deekshitha";
+        String myJobRole = "Java Developer";
+        String companyName = "Delloite";
+        System.out.println(myName);
+        System.out.println(myJobRole);
+        System.out.println(companyName);
+}
+
+
+//Class 
+It is a Logical Entity and it's a blue print of an object 
+
+example : Plan is required to construct the house . So here the plan is the class. 
+
+
+//Object : 
+Its a Physical entity  which represents the represents real-life entities
+A typical Java program creates many objects, which as you know, interact by invoking methods. 
+An object consists of : 
+1. state     : It represents attributes and properties of an object. 
+2. behaviour : It is represented by the methods of an object. It also reflects the response of an object with other objects.
+3. Identity. : It gives a unique name to an object and enables one object to interact with other objects.
+
+example : Plan is required to construct the house . So here the house is the object which we can see. 
+      Phone, laptop.pen ,pencil are called objects
+
+ 
