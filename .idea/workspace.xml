@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e7ce2f5-b748-4fa8-84ce-4b434a5da991" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/com/Operators/Operators.java" afterDir="false" />
+    <list default="true" id="1e7ce2f5-b748-4fa8-84ce-4b434a5da991" name="Changes" comment="Updating Operators code&#10;&#10;Signed-off-by: Deekshitha Alisetty &lt;89872822+SE0012@users.noreply.github.com&gt;">
+      <change afterPath="$PROJECT_DIR$/src/com/ConditionalStatements/ifCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ConditionalStatements/ifelseCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DataTypes/TypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Operators/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Operators/TernaryOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.TypeCasting">
     <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Operators.Operators" />
       <module name="JavaPractise" />
@@ -90,8 +91,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DataTypes.TypeCasting" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ConditionalStatements.ifCondition" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifelseCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ConditionalStatements.ifelseCondition" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.ifelseCondition" />
+        <item itemvalue="Application.ifCondition" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.TernaryOperator" />
       </list>
@@ -134,11 +177,27 @@
       <option name="project" value="LOCAL" />
       <updated>1684221590605</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updating Operators code">
+      <created>1684222081334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684222081335</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updating Operators code&#10;&#10;Signed-off-by: Deekshitha Alisetty &lt;89872822+SE0012@users.noreply.github.com&gt;">
+      <created>1684222105138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684222105138</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Updating Operators code" />
+    <MESSAGE value="Updating Operators code&#10;&#10;Signed-off-by: Deekshitha Alisetty &lt;89872822+SE0012@users.noreply.github.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Operators code&#10;&#10;Signed-off-by: Deekshitha Alisetty &lt;89872822+SE0012@users.noreply.github.com&gt;" />
   </component>
 </project>
